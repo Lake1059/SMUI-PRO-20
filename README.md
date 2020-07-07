@@ -1,4 +1,4 @@
-### [Download On GitHub](https://github.com/Lake1059/SMUI-PRO-20/release)
+### [Download On GitHub](https://github.com/Lake1059/SMUI-PRO-20/releases)
 在这里获取软件的最新版本和教程  
 Get the latest version and tutorial here.  
 ### [Download On Gitee](https://gitee.com/Lake1059/SMUI-PRO-20/releases)
