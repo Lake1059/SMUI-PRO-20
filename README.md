@@ -4,7 +4,7 @@ Get the latest version and tutorial here.
 
 ### [Download On Gitee](https://gitee.com/Lake1059/SMUI-PRO-20/releases)
 此存储库会从 [GitHub](https://github.com/Lake1059/SMUI-PRO-20) 手动克隆到中国大陆的 [Gitee](https://gitee.com/Lake1059/SMUI-PRO-20) 以解决国内部分用户无法访问的问题  
-由于 Release 发布无法克隆，两边的应用程序发布需要独立上传，如果出现更新延迟，请耐心等待
+由于 Release 发布无法克隆，两边的产品发布需要独立上传，如果出现更新延迟，请耐心等待
 
 ### language setting
 After you install, find the language setting application from the start menu.  
