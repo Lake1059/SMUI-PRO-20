@@ -7,8 +7,12 @@ Get the latest version and tutorial here.
 由于 Release 发布无法克隆，两边的产品发布需要独立上传，如果出现更新延迟，请耐心等待
 
 ### System Requirement
-All 64-bit Windows that supports **[.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)**  
-Works best on Windows 10
+| Equipment | Requirement |
+| :--- | :--- | 
+| Windows | All 64-bit Windows that supports **[.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)**<br>Works best on Windows 10 |
+| CPU | **Intel**<br>At least i3 6th<br>Suggest i5 7-9th<br><br>**AMD**<br>At least R3 1200<br>Suggest R3 2300X|
+| RAM | At least 1800 MHz<br>Suggest 2400 MHz Dual channel |
+| Hard disk | Suggest SSD with PCIE or better |
 
 ### language setting
 After you install, find the language setting application from the start menu.  
