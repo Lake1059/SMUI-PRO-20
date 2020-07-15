@@ -9,7 +9,7 @@ Get the latest version and tutorial here.
 ### System Requirement
 | Equipment | Requirement |
 | :--- | :--- | 
-| Windows | All 64-bit Windows that supports **[.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)**<br>Works best on Windows 10<br>Administrator Rights Required |
+| Windows | All 64-bit Windows that supports **[.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)**<br>Works best on Windows 10 |
 | CPU | **Intel**<br>At least: i3-6100<br>Suggest: i5-8400<br><br>**AMD**<br>At least: R3 1200<br>Suggest: R3 2300X|
 | RAM | At least: 1800 MHz<br>Suggest: 2400 MHz Dual channel or better |
 | Hard disk | SSD with PCI-E or better<br>DO NOT USE HDD!!! |
