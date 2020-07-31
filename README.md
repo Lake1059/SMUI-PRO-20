@@ -6,23 +6,6 @@ Get the latest version and tutorial here.
 此存储库会从 **[GitHub](https://github.com/Lake1059/SMUI-PRO-20)** 手动克隆到中国大陆的 **[Gitee](https://gitee.com/Lake1059/SMUI-PRO-20)** 以解决国内部分用户无法访问的问题  
 由于 Release 发布无法克隆，两边的产品发布需要独立上传，如果出现更新延迟，请耐心等待
 
-### System Requirement
-| Equipment | Suggest Requirement |
-| :--- | :--- | 
-| Windows | All 64-bit Windows that supports **[.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)**<br>Works best on Windows 10 |
-| CPU | i5-8400<br>R3 2300X|
-| RAM | 2400 MHz Dual channel or better |
-| Hard disk | SSD with PCI-E 3.0 or better<br>DO NOT USE HDD!!! |
-
-### language setting
-After you install, find the language setting application from the start menu.  
-Language settings are independent, which provides multilingual support for multiple applications.
-
-### Getting started
-Choose a tutorial in a language that you can understand in the file list to learn.  
-You can help make the language file of the software and the corresponding language tutorial.  
-There is no source code here, I will not upload the project file of this product.
-
 ## SMUI PRO 20
 SMUI PRO 20 is a remake of SMUI. If you have used SMUI before, you can quickly learn new products. Their principles are the same.
 
@@ -43,3 +26,20 @@ Technically, the improvements of SMUI PRO 20 compared to the previous generation
 + Provide functional adaptation for **[Mod Updater](https://www.nexusmods.com/stardewvalley/mods/6338)**
 + **SMAPI** process control, crash awareness
 + Does not support multi-layer folders (will never support)
+
+### language setting
+After you install, find the language setting application from the start menu.  
+Language settings are independent, which provides multilingual support for multiple applications.
+
+### Getting started
+Choose a tutorial in a language that you can understand in the file list to learn.  
+You can help make the language file of the software and the corresponding language tutorial.  
+There is no source code here, I will not upload the project file of this product.
+
+### System Requirement
+| Equipment | Suggest Requirement |
+| :--- | :--- | 
+| Windows | All 64-bit Windows that supports **[.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)**<br>Works best on Windows 10 |
+| CPU | i5-8400<br>R3 2300X|
+| RAM | 2400 MHz Dual channel or better |
+| Hard disk | SSD with PCI-E 3.0 or better<br>DO NOT USE HDD!!! |
