@@ -22,3 +22,24 @@ Language settings are independent, which provides multilingual support for multi
 Choose a tutorial in a language that you can understand in the file list to learn.  
 You can help make the language file of the software and the corresponding language tutorial.  
 There is no source code here, I will not upload the project file of this product.
+
+## Basic Information
+SMUI PRO 20 is a remake of SMUI. If you have used SMUI before, you can quickly learn new products. Their principles are the same.
+
+Technically, the improvements of SMUI PRO 20 compared to the previous generation of SMUI:
++ Full code rewrite optimization, efficiency improvement (you may not feel it)
++ Enhanced scalability (I can add more new features more conveniently)
++ More powerful functions, all-round upgrade of installation commands
++ Some functions have been separated from the main program to reduce the memory usage during daily use
+
+## Characteristic
++ User programming driven, batch operation, multi-language support
++ Support all **SMAPI MOD** and **XNB MOD**
++ Support the operation of managing other replacement files
++ Required items can be checked at any time
++ Easy game save editor
++ The path has no language restrictions, and supports long paths
++ Direct start **[Natural Color - Reshade](https://www.nexusmods.com/stardewvalley/mods/1213)**
++ Provide functional adaptation for **[Mod Updater](https://www.nexusmods.com/stardewvalley/mods/6338)**
++ **SMAPI** process control, crash awareness
++ Does not support multi-layer folders (will never support)
