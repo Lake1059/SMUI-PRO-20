@@ -1,9 +1,10 @@
-![image](https://img.shields.io/badge/平台-.NET%20Framework%204.8-red?style=flat-square)
-![image](https://img.shields.io/badge/状态-内测中-blueviolet?style=flat-square)
-[![image](https://img.shields.io/badge/QQ%20群-789743581-blue?style=flat-square)](https://jq.qq.com/?_wv=1027&k=HkRRE5c0)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Lake1059/SMUI-PRO-20?label=Release&style=flat-square)
-![GitHub Releases](https://img.shields.io/github/downloads/Lake1059/SMUI-PRO-20/master/total?label=Downloads&style=flat-square)
-
+![平台](https://img.shields.io/badge/平台-.NET%20Framework%204.8-red?style=flat-square)
+![状态](https://img.shields.io/badge/状态-内测中-blueviolet?style=flat-square)
+[![QQ群](https://img.shields.io/badge/QQ%20群-789743581-blue?style=flat-square)](https://jq.qq.com/?_wv=1027&k=HkRRE5c0)
+![版本号](https://img.shields.io/github/v/release/Lake1059/SMUI-PRO-20?label=Release&style=flat-square)
+![下载量](https://img.shields.io/github/downloads/Lake1059/SMUI-PRO-20/master/total?label=Downloads&style=flat-square)  
+![简体中文](https://img.shields.io/badge/简体中文-原生支持-brightgreen?style=flat-square)
+![英语美国](https://img.shields.io/badge/English%20US-Unavailable-orange?style=flat-square)
 
 ### [Download On GitHub](https://github.com/Lake1059/SMUI-PRO-20/releases)  
 Get the latest version and tutorial here. 
