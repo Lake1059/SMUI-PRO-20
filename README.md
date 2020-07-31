@@ -14,7 +14,7 @@ Get the latest version and tutorial here.
 由于 Release 发布无法克隆，两边的产品发布需要独立上传，如果出现更新延迟，请耐心等待
 
 ### [Download On NEXUSMODS](https://www.nexusmods.com/stardewvalley/mods/5768)
-Wait for undate.
+Wait for update.
 
 ## SMUI PRO 20
 SMUI PRO 20 is a remake of SMUI. If you have used SMUI before, you can quickly learn new products. Their principles are the same.
