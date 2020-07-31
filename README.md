@@ -1,5 +1,11 @@
-### [Download On GitHub](https://github.com/Lake1059/SMUI-PRO-20/releases)
-在这里获取软件的最新版本和教程  
+![image](https://img.shields.io/badge/平台-.NET%20Framework%204.8-red?style=flat-square)
+![image](https://img.shields.io/badge/状态-内测中-blueviolet?style=flat-square)
+[![image](https://img.shields.io/badge/QQ%20群-789743581-blue?style=flat-square)](https://jq.qq.com/?_wv=1027&k=HkRRE5c0)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Lake1059/SMUI-PRO-20?label=Release&style=flat-square)
+![GitHub Releases](https://img.shields.io/github/downloads/Lake1059/SMUI-PRO-20/master/total?label=Downloads&style=flat-square)
+
+
+### [Download On GitHub](https://github.com/Lake1059/SMUI-PRO-20/releases)  
 Get the latest version and tutorial here. 
 
 ### [Download On Gitee](https://gitee.com/Lake1059/SMUI-PRO-20/releases)
@@ -27,11 +33,11 @@ Technically, the improvements of SMUI PRO 20 compared to the previous generation
 + **SMAPI** process control, crash awareness
 + Does not support multi-layer folders (will never support)
 
-### language setting
-After you install, find the language setting application from the start menu.  
+### Language Settings
+After you install, find the language settings application from the start menu.  
 Language settings are independent, which provides multilingual support for multiple applications.
 
-### Getting started
+### Getting Started
 Choose a tutorial in a language that you can understand in the file list to learn.  
 You can help make the language file of the software and the corresponding language tutorial.  
 There is no source code here, I will not upload the project file of this product.
