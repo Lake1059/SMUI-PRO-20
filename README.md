@@ -7,7 +7,8 @@
 ![简体中文](https://img.shields.io/badge/简体中文-原生支持-brightgreen?style=flat-square)
 ![英语美国](https://img.shields.io/badge/English-Unavailable-orange?style=flat-square)
 
-公开测试的目的只是为了让大家更早地用上，BUG 肯定是很多的，很多细节也不合理，慢慢更新就行
+公开测试的目的只是为了让大家更早地用上，BUG 肯定是很多的，很多细节也不合理，慢慢更新就行  
+由于目前还没有多语言功能，公开测试仅在中国大陆的 Gitee 发布
 
 ### [Download On GitHub](https://github.com/Lake1059/SMUI-PRO-20/releases)  
 Get the latest version and tutorial here. 
