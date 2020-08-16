@@ -19,25 +19,25 @@ Get the latest version and tutorial here.
 Wait for update.
 
 ## SMUI PRO 20
-SMUI PRO 20 is a remake of SMUI. If you have used SMUI before, you can quickly learn new products. Their principles are the same.
+SMUI PRO 20 是 SMUI 的重制版，如果你之前使用过第二代的 SMUI，则可以立即上手第三代
 
-Technically, the improvements of SMUI PRO 20 compared to the previous generation of SMUI:
-+ Full code rewrite optimization, efficiency improvement (you may not feel it)
-+ Enhanced scalability (I can add more new features more conveniently)
-+ More powerful functions, all-round upgrade of installation commands
-+ Some functions have been separated from the main program to reduce the memory usage during daily use
+技术上讲，第三代有以下升级：
++ 全部代码重写优化，执行效率提升（注意你不大可能感觉到这个）
++ 增强的扩展性（我可以更方便地添加更多新功能）
++ 更多强大的功能，安装命令大升级
++ 一些功能已和主程序分离以降低日常使用的内存占用量
 
-## Characteristic
-+ User programming driven, batch operation, multi-language support
-+ Support all **SMAPI MOD** and **XNB MOD**
-+ Support the operation of managing other replacement files
-+ Required items can be checked at any time
-+ Easy game save editor
-+ The path has no language restrictions, and supports long paths
-+ Direct start **[Natural Color - Reshade](https://www.nexusmods.com/stardewvalley/mods/1213)**
-+ Provide functional adaptation for **[Mod Updater](https://www.nexusmods.com/stardewvalley/mods/6338)**
-+ **SMAPI** process control, crash awareness
-+ Does not support multi-layer folders (will never support)
+## 特性
++ 用户编程驱动
++ 支持所有 **SMAPI MOD** 和 **XNB MOD**
++ 还能管理其他的操作，不仅仅是 MOD
++ 快捷的前置检查，还可进行全局安装检查
++ 一个简易的存档编辑器
++ 路径无语言限制，支持超长路径
++ 可以直接启动 **[Natural Color - Reshade](https://www.nexusmods.com/stardewvalley/mods/1213)**
++ 为 **[Mod Updater](https://www.nexusmods.com/stardewvalley/mods/6338)** 提供相应的功能扩展
++ **SMAPI** 进程控制，崩溃感知
++ 不支持在 Mods 文件夹中套娃（永远不会支持）
 
 ### Language Settings
 After you install, find the language settings application from the start menu.  
