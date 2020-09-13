@@ -1,0 +1,176 @@
+{
+    "TopMenu":{
+        "ConfigureQueue": "Configure Queue",
+        "IntegratedApplication": "Application",
+        "Settings": "Settings",
+
+        "ContentMenu": "Content",
+        "LinkMenu": "Link",
+        "ApplicationMenu": "EXE"
+    },
+
+    "CategoryPanel":{
+        "MenuButton": "Menu",
+        "RefreshButton": "Refresh",
+        "Label": "Category",
+
+        "Menu":{
+            "CopyName": "Copy name",
+            "AdjustColumnWidth": "Column width",
+            "Pack": "Pack",
+            "Load": "Load",
+            "DefaultFont": "Default",
+            "Bold": "Bold",
+            "Italic": "Italic",
+            "Strikeout": "Strikeout",
+            "Underline": "Underline",
+            "DefaultColor": "Default",
+            "Red": "Red",
+            "Orange": "Orange",
+            "Blue": "Blue",
+            "Green": "Green",
+            "Purple": "Purple"
+        },
+
+        "RightClickMenu":{
+            "OpenFolder": "Folder",
+            "New": "New",
+            "Rename": "Rename",
+            "Delete": "Delete"
+        }
+    },
+
+    "MODListPanel":{
+        "MenuButton": "Menu",
+        "RefreshButton": "Refresh",
+        "SearchButton": "Search",
+        "FilterButton": "Filter",
+
+        "MODListLabel": "MOD List ",
+        "VersionLabel": " Version",
+        "StatusLabel": " Status",
+
+        "DEBUGButton": "DEBUG",
+
+        "Menu": {
+            "NewItem": "New Item",
+            "MoveItem": "Move Items",
+            "DeleteItem": "Delete Items",
+            
+            "CopyItemName": "Copy name",
+            "PackItem": "Pack",
+            "LoadItem": "Load",
+
+            "CopyUpdatesFromInstalled": "Copy updates from installed",
+            "FullUpdatesFromInstalled": "Full updates from installed",
+
+            "SetItemsFont": {
+                "ItemName": "Set Font",
+                "DefaultFont": "Default",
+                "Bold": "Bold",
+                "Italic": "Italic",
+                "Strikeout": "Strikeout",
+                "Underline": "Underline"
+            },
+
+            "ShowDirectoryColumn": "Show directory column"
+        },
+
+        "RightClickMenu": {
+            "Install": "Install",
+            "UNInstall": "UnInstall",
+            "OpenFolder": "Folder",
+            "ConfigurationInstallation": "Configuration",
+            "EditJSON": "Edit JSON"
+        },
+
+        "SearchPanel": {
+            "Label": "Search content:",
+            "CombolItem1": "Item name"
+        },
+
+        "FilterMenu":{
+            "SelectAll": "Select all",
+            "ReverseSelect": "Reverse Select",
+
+            "CheckedInstalled": "Checked: Installed",
+            "CheckedUNInstalled": "Checked: Not Installed",
+            "CheckedUpdateAvailable": "Checked: Update Available",
+            "CheckedYouGotNew": "Checked: You Got New",
+
+            "GlobalFilter_CDCP_Installed": "Global Filter: Installed Items (CDCP)",
+            "GlobalFilter_CDCP_UNInstalled": "Global Filter: Items Not Installed (CDCP)",
+            "GlobalFilter_CDAP": "Global Filter: Additional Content (CDAP)",
+            "GlobalFilter_CDRF": "Global Filter: Replace Files (CDRF)",
+            "GlobalFilter_CDVD": "Global Filter: Override Content (CDVD)"
+        },
+
+        "RequirementsPanel":{
+            "RequirementsLabel": " Requirements",
+            "NecessityLabel": " Necessity",
+            "StatusLabel": " Status",
+            "LockListButton": "Lock",
+            "CheckButton": "Check"
+        },
+
+        "MoveItemsPanel":{
+            "SelectTargetCategoryLabel": "Select target category:",
+            "RefreshCategoryButton": "Refresh category",
+            "ConfirmMoveButton": "Move"
+        },
+
+        "ScanningLabel": "Scanning... Please wait"
+
+    },
+
+    "DescriptionPanel": {
+        "SaveCustomDescriptionButton": "Save",
+        "AdvancedEditButton": "Advanced",
+        "AdvancedMenu": {
+            "SaveToTXT": "Save to TXT",
+            "SaveToRTF": "Save to RTF",
+            "ClearFormat": "Clear format"
+        }
+    },
+
+    "StatusBar": {
+        "CopyLink": "Copy Link"
+    },
+
+    "ProcessingPanel":{
+        "BigLabel": "Waiting",
+        "SmallLabel": "Status",
+        "CommandsLabel": "Commands",
+        "StatusLabel": "Status",
+        "detailsLabel": "Details",
+        "CloseButton": "Close"
+    },
+
+    "ContentMenu": {
+        "CopySteamStartupOptions": "Copy Steam startup options",
+        "SMAPILogFolder": "SMAPI log folder",
+        "CollectionPackageFolder": "Collection package folder",
+        "CollectionPackageAssetsFolder": "Collection package's Assets folder",
+        "GameFolder": "Game folder",
+        "GameMODFolder": "Game's Mods folder",
+        "GameContentFolder": "Game's Content folder",
+        "LocalDataFolder": "Local Data Folder"
+    },
+
+    "EXEMenu": {
+        "RestartProgram":"Restart program",
+        "ResetAndRestart":"Reset and restart",
+        "ResetAndExit":"Reset and exit",
+        "SaveAllSettingsNow":"Save all settings now",
+        "CleanUpMemoryNow":"Clean up memory now",
+        "TaskInProgress":"Task in progress",
+        "CheckUpdate": "Check update"
+    },
+
+    "APPMenu": {
+        "PackageTool" :"Package tool",
+        "GameFileBackupManager" :"Game file backup manager",
+        "GameSaveEditor" :"Game save editor",
+        "GlobalMODInstallationChecker" :"Global MOD installation checker"
+    }
+}

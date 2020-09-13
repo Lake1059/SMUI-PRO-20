@@ -1,0 +1,25 @@
+{
+    "Title": "Configure Queue",
+    "Category": " Category",
+    "Item": " Item",
+    "WindowOnTop": "Window Top",
+    "SaveChangesAndRemoveItem": "Save changes and remove item",
+    "SaveChangesOnly": "Save only",
+    "RemoveSelection": "Remove selection",
+    "RemoveAll": "Remove all",
+    "ItemName": "Item name",
+    "ObjectName": " Object name",
+    "Type": " Type",
+    "InstallCommand": " Command",
+    "AutomaticCompletion": "Auto",
+    "CheckCommand": "Check",
+    "AllCommands": "All",
+    "ProcessingFile": "Processing file, please wait...",
+
+    "InsertName": "Insert name",
+    "CopyName": "Copy name",
+    "MoveUp": "Move up",
+    "MoveDown": "Move down",
+    "Rename": "Rename",
+    "Delete": "Delete"
+}
