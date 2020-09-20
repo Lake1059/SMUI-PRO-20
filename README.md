@@ -5,7 +5,7 @@
 ![版本号](https://img.shields.io/github/v/release/Lake1059/SMUI-PRO-20?label=GitHub%20Release&style=flat-square)
 ![GitHub最新版下载量](https://img.shields.io/github/downloads/Lake1059/SMUI-PRO-20/latest/total?label=Downloads&style=flat-square)  
 ![简体中文](https://img.shields.io/badge/简体中文-原生支持-brightgreen?style=flat-square)
-![英语美国](https://img.shields.io/badge/English-Unavailable-orange?style=flat-square)
+![英语美国](https://img.shields.io/badge/English-Available-orange?style=flat-square)
 
 公开测试的目的只是为了让大家更早地用上，BUG 肯定是很多的，很多细节也不合理，慢慢更新就行
 
@@ -43,11 +43,6 @@ SMUI PRO 20 是 SMUI 的重制版，如果你之前使用过第二代的 SMUI，
 ### Language Settings
 After you install, find the language settings application from the start menu.  
 Language settings are independent, which provides multilingual support for multiple applications.
-
-### Getting Started
-Choose a tutorial in a language that you can understand in the file list to learn.  
-You can help make the language file of the software and the corresponding language tutorial.  
-There is no source code here, I will not upload the project file of this product.
 
 ### System Requirement
 | Equipment | Suggest Requirement |
