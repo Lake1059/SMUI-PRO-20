@@ -6,3 +6,10 @@ SMUI PRO 20 (hereinafter referred to as SMUI) is a Stardew Valley MOD manager in
 注意：如果你正在使用传统方法安装和管理 MOD，你必须将你所有的 MOD 全部转移到 SMUI 使用的整合包中并为它们配置安装命令，这需要花点时间。要使 SMUI 正常发挥作用，你必须这么做，否则 SMUI 就失去其本身的设计意义了。
 
 Note: If you are using traditional methods to install and manage MODs, you must transfer all your MODs to the collection package used by SMUI and configure installation commands for them. This will take some time. To make SMUI function properly, you must do this, otherwise SMUI loses its own design significance.
+
+## 运行环境 Operating environment
+我建议使用最新更新的 Windows 10，此产品只有64位，需要 **[.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)**  
+I recommend using the latest updated Windows 10, this product is only 64-bit and requires **[.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)**
+
+请把你的游戏和整合包都放在固态硬盘，在机械硬盘上管理器的性能会损失很多  
+Please put your games and collection packages on the SSD, the performance of the manager on the HDD will lose a lot
