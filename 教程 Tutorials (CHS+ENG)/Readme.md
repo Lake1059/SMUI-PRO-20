@@ -6,9 +6,9 @@ This tutorial is bilingual in Chinese and English, which is convenient for compa
 ## 目录 Table
 + [产品概述](Product%20description.md)  
 Product description
-+ [整合包](https://github.com/Lake1059/SMUI-PRO-20/blob/master/%E6%95%99%E7%A8%8B%20Tutorials%20(CHS+ENG)/Collection%20package.md)  
++ [整合包](Collection%20package.md)  
 Collection package
-+ [基本操作](https://github.com/Lake1059/SMUI-PRO-20/blob/master/%E6%95%99%E7%A8%8B%20Tutorials%20(CHS%2BENG)/Basic%20operation.md)  
++ [基本操作](Basic%20operation.md)  
 Basic operation
 + 安装命令（核心内容）  
 Installation command (core content)
