@@ -1,0 +1,32 @@
+{
+    "EnterFolderName": "Please enter the folder name",
+    "EnterCollectionPackageMarkName": "Please enter your collection package mark name",
+    "FolderAlreadyExists": "The folder already exists. Do you want to force the creation of new files?",
+    "Not2SMUICollectionPackage": "This is not a collection package that meets the requirements of the second-generation product SMUI specification",
+    "Is2SMUICollectionPackage": "The collection package of SMUI has been confirmed. Note that no rollback function is provided, please reconfirm that the second generation product is completely abandoned! ! !",
+    "RenamingAllConfigurationFiles": "Renaming all configuration files...",
+    "WritingVerificationInformation": "Writing verification information...",
+    "Finishing": "Finishing...",
+    "OperationCompleted": "Operation completed",
+    "UpgradeCompleted": "The collection package upgrade has been completed. Note that this does not mean that all commands are compatible with the new specifications",
+    "Error": "An error occurred and operation was interrupted",
+
+
+    "MainMenu": "Main Menu",
+    "CreateNewCollectionPackage": "Create new collection package",
+    "CreateNewDescription": "Create a collection package that complies with SMUI PRO 20 specifications",
+    "UpgradeCollectionPackage": "Upgrade the collection package",
+    "UpgradeDescription": "Upgrade the collection package of the second generation product SMUI to the third generation product specification",
+
+    "CreatToolTitle": "Collection package creation tool",
+    "CreatToolDescription": "Quickly create a collection package that meets the SMUI PRO 20 specification, fill in the necessary information and click 'Create'",
+    "PackageNameLabel": "Package folder name (Will be created on your desktop)",
+    "MarkName": "Mark name (For example, the name of the organization)",
+    "CreatButton": "Creat",
+
+    "UpgradeToolTitle": "Collection package upgrade tool",
+    "Tips": "Warning: No rollback function is provided. The program will directly modify the collection package instead of generating a new collection package. The verification information will be regarded as created on this machine.",
+    "OldPackagePathLabel": "Old collection package path",
+    "StatusLabel": "Status",
+    "UpgradeButton": "upgrade"
+}

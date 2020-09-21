@@ -1,0 +1,27 @@
+{
+    "Title": "Game file backup manager",
+    "OverloadUserRules": "Overload user rules",
+    "CheckAllStatus": "Check all status",
+    "Folders": "Folders",
+    "BackUpFolders": "BackUp folders",
+    "UserRulesFolders": "User rules folders",
+    "DeleteSelected": "Delete selected",
+    "BackupSelected": "Backup selected",
+    "Name": "Name",
+    "Rules": "Rules",
+    "Status": "Status",
+    "Processing": "Processing...",
+    "PresetRules": "Preset rules",
+    "UserDefinedRules": "User-defined rules",
+
+    "FileBackedup": "File backed up",
+    "NoBackup": "No backup",
+    "PleaseSelectAnItemFirst": "Please select an item first",
+    "ConfirmToStartBackup": "Please make sure your game file is the original version, otherwise the backup operation is meaningless",
+    "PathDoesNotExist": "This path does not exist: ",
+    "BackedUp": "Backed up to: ",
+    "GameFolderDoesNotExist": "The game folder does not exist, please re-specify in SMUI PRO 20",
+    "DeleteBackup": "Are you sure to delete this backup?",
+    "DeletedBackup": "Deleted backup: "
+
+}
