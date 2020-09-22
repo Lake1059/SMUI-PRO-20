@@ -10,7 +10,7 @@ Product description
 Collection package
 + [基本操作](Basic%20operation.md)  
 Basic operation
-+ [安装命令](Installation command.md)  
++ [安装命令](Installation%20command.md)  
 Installation command
 + 高级操作  
 Advanced operation
