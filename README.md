@@ -20,3 +20,5 @@ Wait for update.
 ### Language Settings
 After you install, find the language settings application from the start menu.  
 Language settings are independent, which provides multilingual support for multiple applications.
+
+### [查看教程 View Tutorial](教程%20Tutorials%20(CHS%2BENG))
