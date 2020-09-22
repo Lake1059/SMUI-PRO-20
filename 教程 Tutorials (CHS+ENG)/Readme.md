@@ -25,8 +25,8 @@ Required items list
 + 全局安装检查器  
 Global installation checker
 + 存档编辑器  
-Archive editor
-+ 皮肤  
+Game save editor
++ [皮肤](Skin.md)  
 Skin
 + 设置说明  
 Setting instructions
