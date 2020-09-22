@@ -14,7 +14,7 @@ Basic operation
 Installation command
 + 高级操作  
 Advanced operation
-+ 文件备份管理器  
++ [文件备份管理器](File%20Backup%20Manager.md)  
 File Backup Manager
 + 打包和加载  
 Pack and Load
