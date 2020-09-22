@@ -1,6 +1,5 @@
 ## SMUI PRO 20 教程和技术资料 Tutorials and technical materials
 本教程为中英双语，方便对照理解  
-此教程还在制作中，请去根目录看现有的  
 This tutorial is bilingual in Chinese and English, which is convenient for comparison and understanding.
 
 ## 目录 Table
