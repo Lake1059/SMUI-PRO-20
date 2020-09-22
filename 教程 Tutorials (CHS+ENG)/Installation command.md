@@ -191,6 +191,7 @@ RqFolder
 [Parameter 1: The specified file, the relative path counted from the game directory]
 ```
 ### 变体 Variants
+如果要只在安装或者卸载时才进行检查，请使用它的变体  
 If you want to check only when installing or uninstalling, please use its variant. 
 
 **RqFile-IN**：只在安装时生效  
