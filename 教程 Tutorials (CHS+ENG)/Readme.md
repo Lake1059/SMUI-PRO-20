@@ -10,8 +10,8 @@ Product description
 Collection package
 + [基本操作](Basic%20operation.md)  
 Basic operation
-+ 安装命令（核心内容）  
-Installation command (core content)
++ [安装命令](Installation command.md)  
+Installation command
 + 高级操作  
 Advanced operation
 + 文件备份管理器  
