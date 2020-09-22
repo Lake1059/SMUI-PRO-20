@@ -16,7 +16,7 @@ Installation command
 Advanced operation
 + [文件备份管理器](File%20Backup%20Manager.md)  
 File Backup Manager
-+ 打包和加载  
++ [打包和加载](Pack%20and%20Load.md)  
 Pack and Load
 + 搜索筛选  
 Search filter
