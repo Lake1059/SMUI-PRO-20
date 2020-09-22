@@ -24,7 +24,6 @@ If used reasonably, you will find that the manager can not only manage mods, but
 + 但是参数不可以，因为参数是路径的一部分，所以不允许有任何字符错误
 + 一个命令和另一个命令之间可以空行以帮助增加可读性
 + 但是命令与它的参数之间不允许空行，必须紧挨着下一行
-
 + Command is a code segment executed sequentially from top to bottom, and the parameters of the command follow the next line
 + All commands are not case sensitive and can be recognized normally even if you type more spaces
 + But the parameter is not allowed, because the parameter is part of the path, so no character errors are allowed
@@ -35,7 +34,6 @@ If used reasonably, you will find that the manager can not only manage mods, but
 + 安装命令保存于该项目录下的 UI_Code 无后缀文件中
 + 使用 UTF-8 编码（BOM 不影响），使用 CRLF 换行符
 + 不需要手动打开，请在管理器中编辑，程序能自动处理上述要求
-
 + The installation command is saved in the UI_Code file without suffix under the directory
 + Use UTF-8 encoding (BOM does not affect), use CRLF newline
 + No need to open manually, please edit in the manager, the program can automatically handle the above requirements
