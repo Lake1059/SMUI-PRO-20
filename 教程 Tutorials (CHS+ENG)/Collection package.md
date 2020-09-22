@@ -10,7 +10,7 @@ The collection package is a folder, like a giant database. Its root directory ha
 总的来说，整合包结构如下图所示，图中的箭头表示“它的文件夹下”  
 In general, the collection package structure is shown in the figure below, and the arrow in the figure means "under its folder"
 
-![image](https://github.com/Lake1059/SMUI-PRO-20/blob/master/ImageData/%E6%95%B4%E5%90%88%E5%8C%85%E7%BB%93%E6%9E%84.png)
+![image](Image/整合包结构.png)
 
 ## 创建整合包 Create a collection package
 当你安装好 SMUI PRO 20 后，在开始菜单找到 “Package Tool V3” 应用程序，此工具用来创建新的空整合包，如果你希望升级第二代产品的整合包，我同样提供了一键升级的功能
