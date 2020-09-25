@@ -11,7 +11,7 @@ Collection package
 Basic operation
 + [安装命令](Installation%20command.md)  
 Installation command
-+ 高级操作  
++ [高级操作](Advanced operation.md)  
 Advanced operation
 + [文件备份管理器](File%20Backup%20Manager.md)  
 File Backup Manager
