@@ -1,6 +1,6 @@
 ![平台](https://img.shields.io/badge/平台-.NET%20Framework%204.8-red?style=flat-square)
 ![架构](https://img.shields.io/badge/架构-x64-red?style=flat-square)
-![状态](https://img.shields.io/badge/状态-公开测试-blueviolet?style=flat-square)
+![状态](https://img.shields.io/badge/状态-正式发布-blueviolet?style=flat-square)
 [![QQ群](https://img.shields.io/badge/QQ%20群-789743581-blue?style=flat-square)](https://jq.qq.com/?_wv=1027&k=HkRRE5c0)
 ![版本号](https://img.shields.io/github/v/release/Lake1059/SMUI-PRO-20?label=GitHub%20Release&style=flat-square)
 ![GitHub最新版下载量](https://img.shields.io/github/downloads/Lake1059/SMUI-PRO-20/latest/total?label=Downloads&style=flat-square)  
