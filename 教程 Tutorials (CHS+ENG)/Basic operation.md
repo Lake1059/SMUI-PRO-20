@@ -30,11 +30,11 @@ Then write the installation command, click save after finishing the configuratio
 
 这是非常关键的一部分，安装命令详细说明在后面的内容
 注意整合包中的每一个MOD都必须是一个单独的项  
-切记不可将MOD的非自身内容比如说前置和MOD本身放置在一个项中，否则前置表的功能将无法正常运行
+切记不可将MOD的非自身内容（比如说它的前置与MOD本身）放置在一个项中，否则前置表的功能将无法正常运行
 
 This is a very critical part, the installation command is detailed in a separate content.  
 Note that each MOD in the collection package must be a separate item.  
-Remember not to place the non-self content of the MOD (such as the requirement and the MOD itself) in one item, otherwise the function of the requirement table will not work properly.
+Remember not to place the non-self content of the MOD (such as its requirements) in one item, otherwise the function of the requirement table will not work properly.
 
 ## 进行安装和卸载 Install and uninstall
 回到主窗口的MOD列表，刷新列表即可看到其状态  
