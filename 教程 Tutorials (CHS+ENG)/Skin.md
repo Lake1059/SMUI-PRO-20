@@ -23,7 +23,7 @@ Processing the main part of the interface: 682x452 pixels MainArea6.png
 如果有密码，创建 “Key.txt” 文本文档，使用 UTF-8 编码在其中写入密码即可  
 文件存在自动启用，不受设置影响
 
-In version 20.1.2 you can use ssk skin
-Just place the available ssk file in the Skin folder of the local folder and rename the file name to "Skin.ssk"
-If there is a password, create a "Key.txt" text file and use UTF-8 encoding to write the password in it
+In version 20.1.2 you can use ssk skin  
+Just place the available ssk file in the Skin folder of the local folder and rename the file name to "Skin.ssk"  
+If there is a password, create a "Key.txt" text file and use UTF-8 encoding to write the password in it  
 File existence is automatically enabled, not affected by settings
