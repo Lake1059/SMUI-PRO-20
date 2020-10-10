@@ -17,3 +17,13 @@ Mod list area: 682x559 pixels MainArea2.png
 Required table area: 682x169 pixels MainArea4.png  
 Processing the upper part of the interface: 682x75 pixels MainArea5.png  
 Processing the main part of the interface: 682x452 pixels MainArea6.png
+
+在 20.1.2 版本中你可以使用 ssk 皮肤  
+仅需将可用的 ssk 文件放置于本地资料夹的 Skin 文件夹中，并将文件名重命名为 “Skin.ssk” 即可  
+如果有密码，创建 “Key.txt” 文本文档，使用 UTF-8 编码在其中写入密码即可  
+文件存在自动启用，不受设置影响
+
+In version 20.1.2 you can use ssk skin
+Just place the available ssk file in the Skin folder of the local folder and rename the file name to "Skin.ssk"
+If there is a password, create a "Key.txt" text file and use UTF-8 encoding to write the password in it
+File existence is automatically enabled, not affected by settings
