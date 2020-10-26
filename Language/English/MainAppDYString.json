@@ -164,6 +164,7 @@
     "IsUpToDate": "Is up to date",
     "DownloadUpdate": "Download",
     "Downloading": "Downloading...",
-    "UpdateDownloadComplete": "The update download is complete, do you immediately end the application and start installing the update?"
+    "UpdateDownloadComplete": "The update download is complete, do you immediately end the application and start installing the update?",
+    "Cancel": "Cancel"
 
 }
