@@ -1,0 +1,32 @@
+{
+    "Title": "Settings",
+    "Folder": "  Folder",
+    "Feature": "  Feature",
+    "FontAndColor": "  Font and Color",
+    "About": "  About",
+
+    "GameFolder": "Game folder",
+    "CollectionPackageFolder": "Collection Package folder",
+    "VerifyInformation": "Verify information",
+    "MarkName": "Mark name",
+    "Creator": "Creator",
+    "CreatorComputerName": "Creator computer name",
+    "Modify": "Modify",
+
+    "StateAwareService": "State-aware service",
+    "RepeatSelectionItemTriggerOnlyOnce": "Repeat selection item Trigger only once",
+    "ItemPostProcessingAfterLosingFocus": "Item Post-processing after losing focus",
+    "UseSkin": "Use skin",
+    "TryToBlockKeyboardFocus": "Try to block keyboard focus (do not press Tab)",
+    "HighContrastFocusOnGrayBackground": "High contrast focus on gray background",
+    "OptimizeTisplayOfRichTextBoxes": "Optimize the display of rich text boxes",
+    "TurnOffAutomaticCheckForUpdates": "Turn off automatic check for updates",
+
+    "Save": "Save",
+
+    "GlobalFont": "Global font",
+    "Preview": "Preview",
+    "ThemeColor": "Theme color",
+
+    "UserLicenseAgreement": "  License"
+}
